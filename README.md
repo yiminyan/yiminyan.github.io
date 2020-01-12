@@ -1,8 +1,6 @@
-## Preview
+## This is a personal website that Yimin Yan used for her own purpose. 
 
-[![Clean Blog Preview](https://startbootstrap.com/assets/img/screenshots/themes/clean-blog.png)](https://blackrockdigital.github.io/startbootstrap-clean-blog/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-clean-blog/)**
+## Here below is the information of the boostrap template I used for this website, Please feel free to check them out:)
 
 ## Status
 
